@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-secondgame-kilanrai:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_kilanrai_jar</output-path>
+    <root id="archive" name="csc413-secondgame-kilanrai.jar">
+      <element id="module-output" name="csc413-secondgame-kilanrai" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jl1.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
